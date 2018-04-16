@@ -1,6 +1,6 @@
 PySpark installation guide for macOS
 ================================================================================
-Tested with Apache Spark 2.1.0, Python 2.7.13 and Java 1.8.0_112
+Tested with Apache Spark 2.1.0, Python 2.7.13 and Java 1.8.0_161
 
 Install Java Development Kit
 ----------------------------
