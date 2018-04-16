@@ -23,7 +23,7 @@ brew install apache-spark
 
 Set up env variables
 --------------------
-Add following code to your e.g. `.bash_profile`
+Add following code to your `.bash_profile`
 ```bash
 # For a ipython notebook and pyspark integration
 if which pyspark > /dev/null; then
